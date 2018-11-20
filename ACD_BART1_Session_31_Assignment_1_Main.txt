@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION 8: EXCEL ANALYTICS (CONTD.)
+
+
+
+Assignment 1
+
+
+Table of Contents
+1. Introduction	3
+2. Objective	3
+3. Prerequisites	3
+4. Associated Data Files	3
+5. Problem Statement	3
+6. Expected Output	3
+7. Approximate Time to Complete Task	3
+
+
+
+
+
+1. Introduction
+This assignment will help you understand the concepts learnt in the session.
+
+2. Objective
+This assignment will test your skills on the concepts of Excel analytics.
+
+3. Prerequisites
+Not applicable.
+
+4. Associated Data Files
+Use "Sales_Dataset.xlsx" file
+
+5. Problem Statement
+• Create and execute a macro (show a button), to sum of "Sales" where the "attractiveness" rating is more than 5.
+• Do it by recording a Macro.
+• Try it using writing a VBA code in Macro.
+• Use http :// www.excel - ea sy. com / vb a.ht ml for reference to write VBA script.
+• Protect the Workbook and save version and upload as a first part of assignment
+• Share the protected workbook, by giving edit access and implement track change. Upload this workbook as second part of your assignment.
+Note: Both upload should contain macros (two types as mentioned above).
+
+6. Expected Output
+N/A
+
+7. Approximate Time to Complete Task
+
+
+
+
